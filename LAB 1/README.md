@@ -1,5 +1,5 @@
-#LAB 1 Guide
-##TCP Protocol
+# LAB 1 Guide
+## TCP Protocol
 1. To simulate the TCP/IP open 2 instances of your command line terminal and navigate to the folder where TCP_Server.py and TCP_Client.py is located.
 2.  In one instance of your terminal run the following command:
 `python TCP_Server.py`
@@ -11,7 +11,7 @@ on the other run:
 6. The client terminal will then display a message received from the server indicating that "24 is not a prime number".
 
 
-##UDP Protocol
+## UDP Protocol
 1. To simulate the UDP over IP open 2 instances of your command line terminal and navigate to the folder where UDP_Server.py and UDP_Client.py is located.
 2.  In one instance of your terminal run the following command:
 `python UDP_Server.py`
