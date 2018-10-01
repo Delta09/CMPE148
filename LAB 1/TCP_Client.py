@@ -7,7 +7,7 @@ import socket
 HOST = socket.gethostname()             
 
 # Port to listen on, this must be the same for client and server
-PORT = 12345                            
+PORT = 12345           
 
 # Take input from user
 num = str(input("Enter a number: "))
@@ -27,5 +27,5 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 # Display message from server
 print('Message from Server:', data.decode())
 
-# Close connection
+# Close socket
 s.close()
