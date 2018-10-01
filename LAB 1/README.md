@@ -1,4 +1,5 @@
 # LAB 1 Guide
+#### Disclaimer: The programs were all written in Python 3
 ## TCP Protocol
 1. To simulate the TCP/IP open 2 instances of your command line terminal and navigate to the folder where TCP_Server.py and TCP_Client.py is located.
 2.  In one instance of your terminal run the following command:
